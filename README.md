@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+My name is Maulana
+- I'am studying computer science
+- A sophomore at Telkom University
 <!--
 **Lan-shi/Lan-shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
