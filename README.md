@@ -1,8 +1,9 @@
 ### Hi there 👋
 My name is Ahmad Maulana Indidharmanto
 
-<!-- A sophomore at Telkom University - I'm studying computer science
-
+A sophomore at Telkom University - I'm studying computer science
+Currently enjoy working no silly projects for fun
+<!-- 
 **Lan-shi/Lan-shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
