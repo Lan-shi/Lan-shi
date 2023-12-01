@@ -19,7 +19,7 @@
 
 ###
 
-<div align="center">
+<div align="Left">
   <img src="https://streak-stats.demolab.com?user=Lan-shi&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lan-shi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
@@ -54,7 +54,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/Ladaku">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=3163xv374lzhsldj3httb52aavzm&count=3&unique=false" alt="Spotify recently played"  />
   </a>
