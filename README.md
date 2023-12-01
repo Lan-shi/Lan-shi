@@ -1,3 +1,4 @@
+![logo](https://github.com/Lan-shi/Lan-shi/blob/main/banner2.jpg)
 <h2 align="center">Hi👋! I'm Ahmad Maulana Indidharmanto</h2>
 
 ###
