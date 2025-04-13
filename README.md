@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<img align="right" height="180" src="https://tenor.com/view/omaru-polka-chibikki-pixel-art-vtuber-animation-gif-25575331"  />
+<img align="right" height="180" src="https://github.com/Lan-shi/Lan-shi/blob/main/omaru-polka-chibikki.gif"  />
 
 ###
 
