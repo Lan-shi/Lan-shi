@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🏫Undergraduate in Computer Science at Telkom University<br><br>Interested in full-stack development and making silly projects for fun.</p>
+<p align="left">I'm a Junior Fullstack Developer passionate about building helpful and accessible tools. Currently, I'm focused on writing scripts and CSS tweaks to make things easier for others. Interested in full-stack development and making silly projects for fun.</p>
 
 ###
 
