@@ -1,5 +1,5 @@
 ![logo](https://github.com/Lan-shi/Lan-shi/blob/main/header.jpg)
-<h2 align="center">Hi👋! I'm Ahmad Maulana Indidharmanto</h2>
+<h2 align="center">Hi👋! I'm Lann </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lan-shi&label=Viewers&color=75b7e1&style=flat-square" alt="lan-shi" /> </p>
 
 <div align="center">
